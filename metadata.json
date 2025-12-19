@@ -1,0 +1,5 @@
+{
+  "name": "AK-ENDOR ISBAR Handover System",
+  "description": "A comprehensive patient handover management system using the ISBAR framework with integrated AI nursing care plans and medical report generation.",
+  "requestFramePermissions": []
+}
